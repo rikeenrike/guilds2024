@@ -18,7 +18,7 @@ tags:
 
 assets:
   logo: logo.png
-  cover_photo: cover_photo.jpg
+  cover_photo: cover.jpeg
 theme:
   primary_color: "#800000"
   secondary_color: "#da2a9c"

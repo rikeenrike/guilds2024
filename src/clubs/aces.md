@@ -4,20 +4,10 @@ org_type: academic
 description:
   full: ""
   short: ""
-# links:
-#   - label: Website
-#     url: https://gdsc.community.dev/university-of-the-immaculate-conception
-#   - label: Facebook
-#     url: https://facebook.com/dscuic
-#   - label: Github
-#     url: https://github.com/gdsc-uic
-# tags:
-#   - technology
-#   - computer
-#   - google
+
 assets:
   logo: logo.jpg
-  # cover_photo: gdsc-uic-cover-photo.png
+
 theme:
   primary_color: "#94BAF9"
   secondary_color: "#7DF1B9"

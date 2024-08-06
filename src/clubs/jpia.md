@@ -17,11 +17,11 @@ tags:
   - Management Acoounting
   - Accounting Information System
 assets:
-  logo: logo.jpg
-  cover_photo: cover_photo.jpg
+  logo: logo.png
+  cover_photo: cover.png
 theme:
-  primary_color: "#ffffff"
-  secondary_color: "#ff717e"
+  primary_color: "#042d62"
+  secondary_color: "#ef269e"
 registration:
   form_url: https://forms.gle/p3GQhMv7CNAm1zkZ9
 officers:

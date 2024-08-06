@@ -15,48 +15,42 @@ tags:
   - Physical Education
   - Health
 assets:
-  logo: logo.png
-  cover_photo: cover_photo.png
+  logo: logo.jpg
+  cover_photo: cover.png
 theme:
   primary_color: "#0000FF"
   secondary_color: ""
 officers:
-  - name: Immanuelle Ugdang
-    position: President
-    photo_name: President.jpg
-  - name: Cristian Migs Cameros
-    position: Vice President
-    photo_name: Vice-President.jpg
-  - name: Maren T. Sto. Domingo
+  - name: Pombo, Ralf Miguel F.
+    position: Mayor
+    photo_name: PRESIDENT.HEIC
+  - name: Sacay, Ahron
+    position: Vice Mayor
+    photo_name: VICE PRESIDENT.JPG
+  - name: Getigan, Rizza
     position: Secretary
-    photo_name: Secretary.jpg
-  - name: Jhamer Saguid
+    photo_name: SECRETARY.HEIC
+  - name: Jotoy, Hazel
     position: Treasurer
-    photo_name: Treasurer.jpg
-  - name: Mark Joseph Homoc
+    photo_name: JOTOY_TREASURER.JPG
+  - name: Bayod, Coleen
     position: Auditor
-    photo_name: Auditor.jpg
-  - name: Kim Clark Abalos
-    position: Public Information Officer
-    photo_name: P-I-O.jpg
-  - name: John Albert Golosino
-    position: 3rd Year Representative
-    photo_name: third-year-repre.jpg
-  - name: Cherry Jane Miedes
-    position: 2nd Year Representative
-    photo_name: second-year-repre.jpg
-  - name: Ralf Miguel Pombo
-    position: 1st Year Representative
-    photo_name: first-year-repre.jpg
-  - name: Bridgette Modo
-    position: Creatives
-    photo_name: Creatives-1.png
-  - name: Lasuerta Cutin
-    position: Creatives
-    photo_name: Creatives-2.png
-  - name: Jinwhill Vinculado
-    position: Creatives
-    photo_name: Creatives-3.jpg
+    photo_name: BAYOD.jpg
+  - name: Pilapil, Pinky
+    position: PIO
+    photo_name: P.I.O.HEIC
+  - name: Maguinisay, Apple Jean
+    position: 1st-year representative
+    photo_name: FIRST YEAR REP.jpg
+  - name: Rico, Franz Louie
+    position: 2nd-year representative. 
+    photo_name: 2ND YEAR REP.jpeg
+  - name: Vincullado, Jinwhill
+    position: 3rd-year representative
+    photo_name: 3RD YEAR REP.HEIC
+  - name: Abenoja, Izzy
+    position: 4th-year representative
+    photo_name: 4TH YEAR REP.HEIC
 
 faqs:
   - question: How can we join this club?
