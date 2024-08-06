@@ -16,7 +16,7 @@ assets:
   cover_photo: CoverPhoto.jpg
 theme:
   primary_color: "#F9D689"
-  secondary_color: "#973131"
+  secondary_color: "#973132"
 registration:
     form_url: https://forms.gle/Y7yt5NYTD1NYveDLA
 officers:
