@@ -3,29 +3,23 @@ name: Bachelor of Physical Education (BPED)
 org_type: academic
 links:
   - label: Facebook
-    url: https://www.facebook.com/UIC-BPEd-CLUB-100468095680403
+    url: https://www.facebook.com/profile.php?id=100072234631385&mibextid=ZbWKwL
 description:
-  full: |
-    The Bachelor of Physical Education hones wellness and wholeness. Its scope encompasses a variety of programs from physical recreations to musical and arts inclination in order to achieve the vision and mission of  purveying institutionally erudite PE pedagogues.
+  full: The Bachelor of Physical Education hones wellness and wholeness. Its scope encompasses a variety of programs from physical recreations to musical and arts inclination to achieve the vision and mission of purveying institutionally erudite PE pedagogues. BPEd Club is spearheaded by a P.E teacher and its members are all PE majors. They promote learning through moving and moving to learn. They advocate fitness through physical activities. Most importantly, they promote BPEd majors through their activities hoping that they can help the university to flourish the numbers of students in the said major.
 
-
-    BPEd Club is spearheaded by a P.E teacher and its members are all PE majors. They promote learning through moving and moving to learn. They advocate fitness  through physical activities. Most importantly, they promote BPEd majors through their activities hoping that they can help the university to flourish the numbers of students in the said major.
-
-
-  short: |
-    BPEd Club is spearheaded by a P.E teacher and its members are all PE majors. They promote learning through moving and moving to learn. They advocate fitness  through physical activities. Most importantly, they promote BPEd majors through their activities hoping that they can help the university to flourish the numbers of students in the said major.
+  short: BPED club is spearheaded by a PE teacher and its members are all PE majors. They promote learning through moving and moving to learn. They advocate fitness through physical activities. Most importantly, they promote BPED majors through their activities hoping that they can help the university to flourish the numbers of students in the said major.
 
 tags:
-  - sports
-  - dance
-  - games
-  - body
+  - music
+  - art
+  - Physical Education
+  - Health
 assets:
   logo: logo.png
   cover_photo: cover_photo.png
 theme:
-  primary_color: "#63CBF2"
-  secondary_color: "#40E0D0"
+  primary_color: "#0000FF"
+  secondary_color: ""
 officers:
   - name: Immanuelle Ugdang
     position: President
