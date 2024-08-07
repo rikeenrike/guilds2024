@@ -12,8 +12,8 @@ theme:
   primary_color: "#94BAF9"
   secondary_color: "#7DF1B9"
 registration:
-  form_url: https://forms.gle/if58uEXj7uqduQmK7
-  meeting_url: https://meet.google.com//gqn-fqjp-enh
+  form_url: ""
+  meeting_url: ""
 officers:
   - name: Aanne Gabrielle Grijaldo
     position: President
